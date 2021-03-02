@@ -1,0 +1,11 @@
+.Css_Nav{
+    grid-area: n;    
+    background-color: darkgreen;
+}
+.item a{
+    color: white;
+    text-decoration: none;
+}
+.item a.active{
+    color: red;
+}

@@ -1,0 +1,26 @@
+
+.Css_Messenger{
+    grid-area: m;
+    background-color: dodgerblue;
+    
+    }
+    .dialogs{
+        display: grid;
+        grid-template-columns: 2fr 10fr;
+    }
+    .dialogsItems{
+        padding: 10px;
+
+    }
+    .dialogsItems .active{
+color: red;
+    }
+    .dialogsItems .dialog{
+padding: 10px;
+    }
+    .messages{
+
+    }
+    .messages.messege{
+
+    }
